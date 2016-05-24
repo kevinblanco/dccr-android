@@ -1,3 +1,3 @@
-Documentation is available on [http://connfa.com/](http://connfa.com/)
-
-Project is supported by [Lemberg Solutions](http://lemberg.co.uk)
+=======
+# dccr-android
+Android app for the DrupalCamp Costa Rica 2016.
