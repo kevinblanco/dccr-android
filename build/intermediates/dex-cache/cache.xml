@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.4.0_9260ab376d30839fa22d4ba5ea745035764227ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.1.0_a9d74f26f4aa8550f6c0a3e10b898388b1da994c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.0_7986b3e4dd695916a7aafa3e3733d4ce345652b3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.github.dmytrodanylyk.shadow-layout/library/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4bfee0fd6aa71027dc9dabae3076f529359a1fde">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dmytrodanylyk.shadow-layout-library-1.0.2_9f3ffcfd61287fc33cf2b868d7833b97125c5247/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_d75fa2feb2beb1f58e648f828f597d820ecb18b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.4/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.4_fce486267b7af2dedc34e75eb1c21df295840150/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.0_9160a8ad580187079a5a9e9fb29d764ebfd22bde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/DrupalCamp/drupalSDK/unspecified/jars/libs/httpmime-4.3.6.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0d471ededb61069453681bdcf078e5a67939728e">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/8/httpmime-4.3.6_87926ff137ca8eaf67d91de1bce05b1f9d04da8a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.1.3_6abcc45defaa13cea80ffc30caed2151e5fea2d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.8/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e724073d032731be77fad0f993e2970fb4429e3a">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpardogo.materialtabstrip-library-1.0.8_c6914595b0668b022ba61cc42a83f35230cd856c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-21.0.2_d9e32fc302b84cee00e030ea3a428443c4c40b4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.0_84d54f2d2a0d6db4f71420d1a6d7a8b5fed5c526/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/DrupalCamp/drupalSDK/unspecified/jars/libs/httpclient-android-4.3.5.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="903257fa7570e2aa89f8b5be3f6bc8359decf981">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/8/httpclient-android-4.3.5_1eddac6345e9cc476fea4bd63734a1bee5ce087f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="acf8e9082013a08001f3f30ec11b8de3e5524ec0">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0f2fa360618290af4c3afed5f9ea0963d875e447/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_219c383476cb644608df9ddf4f4f1b770b32300d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.3/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.3_10096e5ea0fec9d2d7773ac9b2e37cdb5822f142/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="df125985e066d1b5834065248bdfa4606ec0952b">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_482c18bb28ecc25663df9fca088eef40a0b0e64b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.2.2_3f2e3ce9684ad3b0e9528a73af8a9daef69ba20a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_e0f8051cef92680d56c7482fce1347531d888eee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_03be0659d1005caa74a262b314cd18ab8e0a61fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kevin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/kevin/Documents/Projects/Android/DrupalCamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_b7c920b54dc019be2445dc68544a71ca1a40be76/classes.dex" />
+    </item>
+
+</items>
